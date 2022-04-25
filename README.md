@@ -14,6 +14,16 @@ Application is up on
 * User table for storing user records for login.
 * Transaction_list table for storing all transactions all users.
 
+Application Run
+---------------------
+
+Clone the repo, create a virtual environment and Install the requirements
+```buildoutcfg
+pip install -r requirements.txt
+```
+
+And run the flask app from `main_app.py`
+
 API Details
 ----------------------
 
@@ -86,4 +96,13 @@ $ http://localhost:5000/credit_score/1
 ```
 
 This is the GET http request for providing the credit score for provided user.
+
+
+
+Unit Tests 
+------------------
+
+Unit tests are in `test_app.py' 
+
+Note: Unit tests are written few features for api testing.  
 
