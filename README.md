@@ -102,7 +102,7 @@ This is the GET http request for providing the credit score for provided user.
 Unit Tests 
 ------------------
 
-Unit tests are in `test_app.py' 
+Unit tests are in `test_app.py`.
 
 Note: Unit tests are written few features for api testing.  
 
