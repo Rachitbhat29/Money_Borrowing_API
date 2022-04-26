@@ -24,6 +24,11 @@ pip install -r requirements.txt
 
 And run the flask app from `main_app.py`
 
+```
+python main_app.py
+```
+
+
 API Details
 ----------------------
 
@@ -104,5 +109,5 @@ Unit Tests
 
 Unit tests are in `test_app.py`.
 
-Note: Unit tests are written few features for api testing.  
+Note: Unit tests are written for few features for api testing.  
 
